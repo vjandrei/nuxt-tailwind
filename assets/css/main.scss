@@ -1,0 +1,9 @@
+@import 'import';
+
+:root {
+  --primary-color: #2388cc;
+}
+
+body {
+  @apply bg-gray-100;
+}
